@@ -1,0 +1,36 @@
+movie-vault/
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   │   └── favicon.ico
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── MovieCard.js
+│   │   │   ├── Navbar.js
+│   │   │   └── MovieForm.js
+│   │   ├── pages/
+│   │   │   ├── Home.js
+│   │   │   ├── Login.js
+│   │   │   ├── Signup.js
+│   │   │   └── Dashboard.js
+│   │   ├── context/
+│   │   │   └── AuthContext.js
+│   │   ├── App.js
+│   │   └── index.js
+│   └── package.json
+│
+├── backend/
+│   ├── models/
+│   │   ├── User.js
+│   │   └── Movie.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   └── movies.js
+│   ├── middleware/
+│   │   └── auth.js
+│   ├── config/
+│   │   └── db.js
+│   ├── server.js
+│   └── package.json
+│
+└── README.md

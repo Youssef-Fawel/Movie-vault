@@ -1,0 +1,42 @@
+const movies = [
+  {
+    title: "Oppenheimer",
+    genre: "Biographical Drama",
+    year: 2023,
+    poster: "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    description: "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+    rating: 8.5,
+  },
+  {
+    title: "Barbie",
+    genre: "Comedy/Fantasy",
+    year: 2023,
+    poster: "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+    description: "Barbie and Ken's journey of self-discovery in the real world after leaving Barbie Land.",
+    rating: 7.0,
+  },
+  {
+    title: "Poor Things",
+    genre: "Science Fiction/Comedy",
+    year: 2023,
+    poster: "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+    description: "A young woman brought back to life by an eccentric scientist in Victorian London embarks on an odyssey of self-discovery.",
+    rating: 8.4,
+  },
+  {
+    title: "Anyone But You",
+    genre: "Romantic Comedy",
+    year: 2023,
+    poster: "https://image.tmdb.org/t/p/w500/5qHoazZiaLe7oFBok7XlUhg96f2.jpg",
+    description: "Two young people who, despite their obvious chemistry, can't stand each other agree to fake a relationship.",
+    rating: 6.8,
+  },
+  {
+    title: "Mean Girls",
+    genre: "Comedy/Musical",
+    year: 2024,
+    poster: "https://image.tmdb.org/t/p/w500/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+    description: "A modern musical adaptation of the classic 2004 film about high school politics and social cliques.",
+    rating: 6.5,
+  }
+];
